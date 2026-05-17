@@ -13,8 +13,8 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
+    "x": 126,
+    "y": 91,
     "z": 0
   },
   "utils": {
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm Sigma",
+        "PigSigma205 is the best!",
         "I like to play Minecraft!"
       ]
     },
